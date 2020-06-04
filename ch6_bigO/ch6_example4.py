@@ -1,3 +1,5 @@
+# Example 4
+
 def printUnorderedPairs(int_arrayA, int_arrayB):
     for i in range(len(int_arrayA)):
         for j in range(len(int_arrayB)):

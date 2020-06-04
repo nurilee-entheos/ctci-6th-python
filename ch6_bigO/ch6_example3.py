@@ -1,3 +1,5 @@
+# Example 3
+
 def printPairs(int_array):
     for i in range(len(int_array)):
         for j in range(i+1,len(int_array)):
