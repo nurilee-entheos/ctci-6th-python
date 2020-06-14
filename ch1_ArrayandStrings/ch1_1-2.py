@@ -42,7 +42,6 @@ print(check_permutation("apple","elppa"))
 
 print(check_permutation("aplee","elppa"))
 
-
 print(check_permutation("aabbb","bbaaa"))
 
 
